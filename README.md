@@ -130,4 +130,4 @@ selection look-ahead bias, a correlation-formula mismatch between
 trimmed baskets and the real index IV, and the lack of delta-hedging.
 Remaining known gaps are listed above. Full historical re-pulls
 reflecting the strike-selection fix are the current long pole before the
-next set of real backtest numbers is trustworthy.
+next set of real backtest numbers is trustworthy. 
